@@ -12,7 +12,6 @@ This repository contains the procedure and results for measuring the grain size 
    - [Vickers Hardness Test](#vickers-hardness-test)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ## Introduction
 The grain size of metals significantly affects their mechanical properties. This project focuses on measuring the grain size of aluminum and mild steel samples following heat treatment and polishing. The samples were etched and analyzed under a microscope. The Vickers hardness test was also conducted to determine the hardness of the materials.
